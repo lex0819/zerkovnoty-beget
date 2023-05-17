@@ -1,0 +1,159 @@
+<?php
+
+	'wp_insert_post_data', function( $data, $postarr )	
+	$data
+	array(21) { 
+		["post_author"]=> int(1) 
+		["post_date"]=> string(19) "2021-01-05 22:11:35" 
+		["post_date_gmt"]=> string(19) "2021-01-05 19:11:35" 
+		["post_content"]=> string(0) "" 
+		["post_content_filtered"]=> string(0) "" 
+		["post_title"]=> string(13) "песня 01" 
+		["post_excerpt"]=> string(0) "" 
+		["post_status"]=> string(7) "publish" 
+		["post_type"]=> string(15) "lex_kliros_noty" 
+		["comment_status"]=> string(6) "closed" 
+		["ping_status"]=> string(6) "closed" 
+		["post_password"]=> string(0) "" 
+		["post_name"]=> string(9) "pesnya-01" 
+		["to_ping"]=> string(0) "" 
+		["pinged"]=> string(0) "" 
+		["post_modified"]=> string(19) "2021-01-05 23:43:06" 
+		["post_modified_gmt"]=> string(19) "2021-01-05 20:43:06" 
+		["post_parent"]=> int(0) 
+		["menu_order"]=> int(0) 
+		["post_mime_type"]=> string(0) "" 
+		["guid"]=> string(52) "http://kliros/?post_type=lex_kliros_noty&p=2833" }
+
+	$postarr
+		array(87) { 
+			["post_author"]=> int(1) 
+			["post_content"]=> string(0) "" 
+			["post_content_filtered"]=> string(0) "" 
+			["post_title"]=> string(13) "песня 01" 
+			["post_excerpt"]=> string(0) "" 
+			["post_status"]=> string(7) "publish" 
+			["post_type"]=> string(15) "lex_kliros_noty" 
+			["comment_status"]=> string(6) "closed" 
+			["ping_status"]=> string(6) "closed" 
+			["post_password"]=> string(0) "" 
+			["to_ping"]=> string(0) "" 
+			["pinged"]=> string(0) "" 
+			["post_parent"]=> int(0) 
+			["menu_order"]=> int(0) 
+			["guid"]=> string(52) "http://kliros/?post_type=lex_kliros_noty&p=2833" 
+			["import_id"]=> int(0) 
+			["context"]=> string(0) "" 
+			["ID"]=> int(2833) 
+			["post_date"]=> string(19) "2021-01-05 22:11:35" 
+			["post_date_gmt"]=> string(19) "2021-01-05 19:11:35" 
+			["post_name"]=> string(9) "pesnya-01" 
+			["post_modified"]=> string(19) "2021-01-05 23:42:12" 
+			["post_modified_gmt"]=> string(19) "2021-01-05 20:42:12" 
+			["post_mime_type"]=> string(0) "" 
+			["comment_count"]=> string(1) "0" 
+			["ancestors"]=> array(0) { } 
+			["page_template"]=> string(0) "" 
+			["post_category"]=> array(0) { } 
+			["tags_input"]=> array(0) { } 
+			["_wpnonce"]=> string(10) "db35443680" 
+			["_wp_http_referer"]=> string(40) "/wp-admin/post.php?post=2833&action=edit" 
+			["user_ID"]=> int(1) 
+			["action"]=> string(8) "editpost" 
+			["originalaction"]=> string(8) "editpost" 
+			["original_post_status"]=> string(7) "publish" 
+			["referredby"]=> string(0) "" 
+			["_wp_original_http_referer"]=> string(0) "" 
+			["post_ID"]=> string(4) "2833" 
+			["meta-box-order-nonce"]=> string(10) "0decca8135" 
+			["closedpostboxesnonce"]=> string(10) "d1298fee7d" 
+			["samplepermalinknonce"]=> string(10) "4f99ac30f4" 
+			["content"]=> string(0) "" 
+			["wp-preview"]=> string(0) "" 
+			["hidden_post_status"]=> string(7) "publish" 
+			["hidden_post_password"]=> string(0) "" 
+			["hidden_post_visibility"]=> string(6) "public" 
+			["visibility"]=> string(6) "public" 
+			["mm"]=> string(2) "01" 
+			["jj"]=> string(2) "05" 
+			["aa"]=> string(4) "2021" 
+			["hh"]=> string(2) "22" 
+			["mn"]=> string(2) "11" 
+			["ss"]=> string(2) "35" 
+			["hidden_mm"]=> string(2) "01"
+			["cur_mm"]=> string(2) "01" 
+			["hidden_jj"]=> string(2) "05" 
+			["cur_jj"]=> string(2) "05" 
+			["hidden_aa"]=> string(4) "2021" 
+			["cur_aa"]=> string(4) "2021" 
+			["hidden_hh"]=> string(2) "22" 
+			["cur_hh"]=> string(2) "23" 
+			["hidden_mn"]=> string(2) "11" 
+			["cur_mn"]=> string(2) "42" 
+			["original_publish"]=> string(16) "Обновить" 
+			["save"]=> string(16) "Обновить" 
+			["tax_input"]=> array(8) { 
+				["lex_kliros_liturgical"]=> array(1) { 
+					[0]=> int(0) } 
+				["lex_kliros_minea"]=> array(2) { 
+					[0]=> int(0) 
+					[1]=> int(605) } 
+				["lex_kliros_triodion"]=> array(1) { 
+					[0]=> int(0) } 
+				["lex_kliros_miserere"]=> array(1) { 
+					[0]=> int(0) } 
+				["lex_kliros_opus"]=> array(1) { 
+					[0]=> int(311) } 
+				["lex_kliros_composer"]=> array(1) { 
+					[0]=> int(132) } 
+				["lex_kliros_chant"]=> array(0) { } 
+				["lex_kliros_tonality"]=> array(1) { 
+					[0]=> int(65) } } 
+			["newlex_kliros_liturgical"]=> string(42) "Название новой рубрики" 
+			["newlex_kliros_liturgical_parent"]=> string(2) "-1" 
+			["_ajax_nonce-add-lex_kliros_liturgical"]=> string(10) "01e036cb41" 
+			["newlex_kliros_minea"]=> string(42) "Название новой рубрики" 
+			["newlex_kliros_minea_parent"]=> string(2) "-1" 
+			["_ajax_nonce-add-lex_kliros_minea"]=> string(10) "6d9609c409" 
+			["newlex_kliros_triodion"]=> string(42) "Название новой рубрики" 
+			["newlex_kliros_triodion_parent"]=> string(2) "-1" 
+			["_ajax_nonce-add-lex_kliros_triodion"]=> string(10) "d736eb05da" 
+			["newlex_kliros_miserere"]=> string(42) "Название новой рубрики" 
+			["newlex_kliros_miserere_parent"]=> string(2) "-1" 
+			["_ajax_nonce-add-lex_kliros_miserere"]=> string(10) "f16f0a8623" 
+			["newtag"]=> array(4) { 
+				["lex_kliros_opus"]=> string(0) "" 
+				["lex_kliros_composer"]=> string(0) "" 
+				["lex_kliros_chant"]=> string(0) "" 
+				["lex_kliros_tonality"]=> string(0) "" } 
+			["meta"]=> array(3) { 
+				[17144]=> array(2) { 
+					["key"]=> string(8) "filepath" 
+					["value"]=> string(7) "Notes1/" } 
+				[17145]=> array(2) { 
+					["key"]=> string(7) "quality" 
+					["value"]=> string(20) "однородный" } 
+				[17146]=> array(2) { 
+					["key"]=> string(6) "voices" 
+					["value"]=> string(8) "трио" } } 
+			["_ajax_nonce"]=> string(10) "43ef7032fb" 
+			["metakeyselect"]=> string(6) "#NONE#" 
+			["metakeyinput"]=> string(0) "" 
+			["metavalue"]=> string(0) "" 
+			["_ajax_nonce-add-meta"]=> string(10) "86c2a66030" 
+			["excerpt"]=> string(0) "" 
+			["filter"]=> string(2) "db" }
+
+			
+			
+			
+			["meta"] => array(3) { 
+				[17144]=> array(2) { 
+					["key"]=> string(8) "filepath" 
+					["value"]=> string(7) "Notes1/" } 
+				[17145]=> array(2) { 
+					["key"]=> string(7) "quality" 
+					["value"]=> string(20) "однородный" } 
+				[17146]=> array(2) { 
+					["key"]=> string(6) "voices" 
+					["value"]=> string(8) "трио" } }

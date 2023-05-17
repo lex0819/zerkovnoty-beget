@@ -1,0 +1,119 @@
+.form-send-file {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 50vw;
+   border: 1px solid #032dc9;
+   background-color: #d9fcfc;
+   padding: 25px;
+}
+
+.form-send-db {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 50vw;
+   border: 1px solid #032dc9;
+   background-color: #d9fcfc;
+   padding: 25px;
+}
+
+.input-send,
+.btn-send {
+   margin: 20px 10px;
+   color: #032dc9;
+   font-size: 1em;
+   line-height: 2em;
+   box-shadow: 5px 5px 20px #000;
+}
+
+.text-send {
+   margin: 20px 10px;
+   color: #032dc9;
+   font-size: 1.4em;
+   line-height: 2em;
+   box-shadow: 5px 5px 20px #000;
+}
+
+.btn-send {
+   font-weight: bold;
+}
+
+.input-send:hover,
+.text-send:hover,
+.btn-send:hover {
+   box-shadow: 5px 5px 20px #ff0;
+}
+
+.output-message {
+   display: block;
+   color: #032dc9;
+   background-color: #d9fcfc;
+   width: 100vw;
+   padding: 25px;
+}
+
+.btn-prev > a {
+   color: #56048f;
+   font-size: 1.5em;
+}
+
+.btn-prev > a:hover {
+   color: #b04bf6;
+   /*box-shadow: 5px 5px 10px ##05B3FB;*/
+}
+
+.header-flex {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.hed-h1 {
+   color: #2e0483;
+   font-size: 2em;
+}
+
+.user-name {
+   font-weight: bold;
+   color: #b40404;
+}
+
+.user-text {
+   color: #3202bc;
+}
+
+.user-date {
+   color: #000;
+   font-style: italic;
+}
+
+.green {
+   color: #038403;
+}
+
+.black {
+   color: #000;
+}
+
+.lex_comm {
+   font-size: 1.3rem;
+}
+
+.list {
+   font-size: 1.5em;
+   line-height: 2em;
+}
+
+.btn-del {
+   display: inline-block;
+}
+.count_download > strong {
+   font-weight: 900;
+   font-size: 1.5em;
+}
+
+.all > strong {
+   color: #b40404;
+}
